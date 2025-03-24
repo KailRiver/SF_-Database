@@ -36,11 +36,11 @@ SF_DB_Tasks/
 ## 🚀 Быстрый старт
 
 1. **Создайте БД**:
-   ```
-   CREATE DATABASE practice_db;
-   ```
+```
+CREATE DATABASE practice_db;
+```
 Подключитесь:
- ```
+```
     psql -U postgres -d mydatabase
 ```
 Выполните скрипты:
