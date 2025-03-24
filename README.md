@@ -39,11 +39,11 @@ SF_DB_Tasks/
 ```
 CREATE DATABASE practice_db;
 ```
-Подключитесь:
+2. **Подключитесь**:
 ```
     psql -U postgres -d mydatabase
 ```
-Выполните скрипты:
+3. **Выполните скрипты**:
  - `DB_Initialisation_Part_X.sql`  - сначала инициализация
  - `DB_Task_X.sql`                 - затем задачи
 
