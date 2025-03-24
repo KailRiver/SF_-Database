@@ -53,6 +53,6 @@ psql -U postgres -d mydatabase
 
 📧 Контакты
 
-Автор: Антипов Илья
-Email: ilia.antipov95@yandex.ru
-Цель: Учебные материалы по SQL и PostgreSQL
+ - Автор: Антипов Илья
+ - Email: ilia.antipov95@yandex.ru
+ - Цель: Учебные материалы по SQL и PostgreSQL
